@@ -7,5 +7,7 @@ namespace TeamProject.Models
 {
     public class Team1
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
